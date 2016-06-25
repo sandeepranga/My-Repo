@@ -99,7 +99,7 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <webResources>
                         <resource>
-                            <directory>MyTESTAPP/build/${sencha.env}/MyTESTAPP</directory>
+                            <directory>MyTESTAPP/production/MyTESTAPP</directory>
                             <excludes>
                                 <exclude>**/Readme.md</exclude>
                             </excludes>
