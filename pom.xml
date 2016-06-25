@@ -129,7 +129,7 @@
                         <configuration>
                             <!-- Set path to your Sencha Cmd executable-->
                             <executable>C:\Users\SandeepWTC\bin\Sencha\Cmd\6.0.1.76\sencha</executable>
-                            <workingDirectory>${project.basedir}/MyApp</workingDirectory>
+                            <workingDirectory>${project.basedir}/MyTESTAPP</workingDirectory>
                             <arguments>
                                 <argument>app</argument>
                                 <argument>build</argument>
