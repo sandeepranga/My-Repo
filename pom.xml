@@ -143,9 +143,7 @@
                             <arguments>
                                 <argument>app</argument>
                                 <argument>build</argument>
-                                <argument>--clean</argument>
-                                <argument>--environment</argument>
-                                <argument>${sencha.env}</argument>
+                                <argument>classic</argument>
                             </arguments>
                         </configuration>
                     </execution>
