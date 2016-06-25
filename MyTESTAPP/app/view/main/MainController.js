@@ -10,7 +10,7 @@ Ext.define('MyTESTAPP.view.main.MainController', {
     alias: 'controller.main',
 
     onItemSelected: function (sender, record) {
-        Ext.Msg.confirm('Confirm', 'Are you sure?-122', 'onConfirm', this);
+        Ext.Msg.confirm('Confirm', 'Sure', 'onConfirm', this);
     },
 
     onConfirm: function (choice) {
