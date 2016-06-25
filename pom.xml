@@ -7,6 +7,7 @@
     <groupId>com.argonio</groupId>
     <artifactId>sencha-extjs-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
+	
     <packaging>war</packaging>
 
     <name>Sencha ExtJS Maven integration</name>
