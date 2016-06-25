@@ -99,7 +99,7 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <webResources>
                         <resource>
-                            <directory>MyTESTAPP/production/MyTESTAPP</directory>
+                            <directory>MyTESTAPP/build/production/MyTESTAPP</directory>
                             <excludes>
                                 <exclude>**/Readme.md</exclude>
                             </excludes>
